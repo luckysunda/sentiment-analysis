@@ -10,7 +10,9 @@ For the purposes of this assignment, you are only allowed to use `Bag of Words` 
 
 ## Getting Started
 
-Please start by forking this repository (tick the checkbox for `This is a private repository`), and edit the three Python files to implement your solution. In case you are using Python 3, please update the Shebang (`#!`)  to reflect this.
+1. Please start by forking this repository (tick the checkbox for `This is a private repository`). This should result in the creation of a new repository under your account.
+2. Edit the three Python files to implement your solution. In case you are using Python 3, please update the Shebang (`#!`)  to reflect this.
+3. Follow the submission instructions to share your solution with us. **Do not submit a Pull Request, unless you want to suggest a fix.**
 
 ## Submission Instructions
 
