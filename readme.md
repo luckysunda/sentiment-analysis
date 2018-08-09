@@ -4,7 +4,7 @@ In this assignment, you are tasked with implementing a preprocessing and classif
 
 1. The [Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/) (IMDB).
 2. The [Stanford Natural Language Inference Corpus](https://nlp.stanford.edu/projects/snli/) (SNLI).
-3. [AG's News Topic Classification Dataset](https://github.com/mhjabreel/CharCNN/tree/master/data/ag_news_csv).
+3. [AG's News Topic Classification Dataset](https://github.com/mhjabreel/CharCNN/tree/master/data/ag_news_csv) (News).
 
 For the purposes of this assignment, you are only allowed to use `Bag of Words` and `Bag of N-Grams`-based representations. You may make use of any classifier.
 
@@ -16,6 +16,6 @@ For the purposes of this assignment, you are only allowed to use `Bag of Words` 
 
 ## Submission Instructions
 
-In your submission, update a `readme.md` file that includes the list of all packages that must be installed for your solution. Detail your results on the validation set, strategy for feature selection and any ablation studies you might have performed separately in a `report.pdf` file. It should be possible to run your code on a fresh virtualenv after installing the specified packages without any other set-up. We will install the specified packages, and then run the three Python scripts to check your solution.
+In your submission, update a `readme.md` file that includes the list of all packages that must be installed for your solution. Detail your results on the validation set, strategy for feature selection and any ablation studies you might have performed separately in a `report.pdf` file. It should be possible to run your code on a fresh `virtualenv` after installing the specified packages without any other set-up. We will install the specified packages, and then run the three Python scripts to check your solution.
 
 To submit your solution, go to `Settings > User and group access` and add `e0334` with `Read` access to the `Users` section. We will automatically retrieve the latest submission via git.
