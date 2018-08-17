@@ -18,4 +18,6 @@ For the purposes of this assignment, you are only allowed to use `Bag of Words` 
 
 In your submission, update a `readme.md` file that includes the list of all packages that must be installed for your solution. Detail your results on the validation set, feature engineering and feature selection strategies and any ablation studies you might have performed separately in a `report.pdf` file. It should be possible to run your code on a fresh `virtualenv` after installing the specified packages without any other set-up. We will install the specified packages, and then run the three Python scripts to check your solution.
 
+Please include your trained weights and load them automatically if training is time intensive (≥10 minutes).  
+
 To submit your solution, go to `Settings > User and group access` and add `peteykun` with `Read` access to the `Users` section. We will automatically retrieve the latest submission via git.
