@@ -16,7 +16,11 @@ For the purposes of this assignment, you are only allowed to use `Bag of Words` 
 
 ## Submission Instructions
 
-In your submission, update a `readme.md` file that includes the list of all packages that must be installed for your solution. Detail your results on the validation set, feature engineering and feature selection strategies and any ablation studies you might have performed separately in a `report.pdf` file. It should be possible to run your code on a fresh `virtualenv` after installing the specified packages without any other set-up. We will install the specified packages, and then run the three Python scripts to check your solution.
+In your submission, create a `readme.md` file that includes the list of all packages **along with the specific versions that you make use of** that must be installed. Detail your results on the validation set, feature engineering and feature selection strategies and any ablation studies you might have performed separately in a `report.pdf` file. It should be possible to run your code on a fresh `virtualenv` after installing the specified packages without any other set-up. We will install the specified packages, and then run the three Python scripts to check your solution. Here is a sample list:
+
+    numpy==1.14.1
+	beautifulsoup4==4.6.0
+    tensorflow==1.4.0
 
 Please include your trained weights and load them automatically if training is time intensive (≥10 minutes).  
 
