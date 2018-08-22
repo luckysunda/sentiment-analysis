@@ -7,10 +7,6 @@ In this assignment, we are tasked with implementing a preprocessing and classifi
 3. [AG's News Topic Classification Dataset](https://github.com/mhjabreel/CharCNN/tree/master/data/ag_news_csv) (News).
 
 packages to be imported:
-nltk
-scipy
-sklearn
-pandas 
-numpy
+nltk=='3.3'\\scipy='1.1.0'\\sklearn='0.19.1'\\ pandas=='0.23.4'\\ numpy=='1.15.0'\\
 
 
